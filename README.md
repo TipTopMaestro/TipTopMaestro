@@ -22,16 +22,10 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNkZmRmc3NjY2tsOGMwajh4dzRxNGZsNzBsdml6aHM1NWk3ZW9wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" alt="coding gif" />
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TipTopMaestro&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TipTopMaestro&layout=compact&theme=nightowl&hide_border=false" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=TipTopMaestro&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph" />
 </div>
 
 <br clear="both">
