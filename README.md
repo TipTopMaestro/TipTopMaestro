@@ -47,15 +47,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TipTopMaestro&theme=nightowl&utcOffset=+8.0" width="340px" />
 </div>
 
-<br/>
-
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
-  </picture>
-</div>
 
 <br/>
 
@@ -113,4 +104,13 @@
   <img src="https://cdn.simpleicons.org/cisco/0491D1" height="40" alt="cisco logo" />
 </div>
 
+<br/>
+
+<div style= "margin: 20px">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
+  </picture>
+</div>
 </div>
