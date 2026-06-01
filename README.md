@@ -24,7 +24,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TipTopMaestro&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TipTopMaestro&layout=compact&theme=nightowl&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TipTopMaestro&layout=compact&theme=nightowl&hide_border=false&card_width=320" height="150" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=TipTopMaestro&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" />
 </div>
 
