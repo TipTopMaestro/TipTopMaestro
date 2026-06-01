@@ -22,31 +22,25 @@
 
 <br clear="both">
 
-<h3>Github Stats</h3>
+<h3 align="center">Github Stats</h3>
 
+<div align="center">
   <!-- Profile Summary and Streak -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TipTopMaestro&theme=nightowl" width="680px" />
-  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TipTopMaestro&theme=nightowl" width="680px" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=TipTopMaestro&theme=nightowl&hide_border=true" width="680px" />
+</div>
 
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
-    <img src="https://streak-stats.demolab.com?user=TipTopMaestro&theme=nightowl&hide_border=true" width="680px" />
-  </div>
-
+<div align="center">
   <!-- Language Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TipTopMaestro&theme=nightowl" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TipTopMaestro&theme=nightowl" width="340px" />
-  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TipTopMaestro&theme=nightowl" width="340px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TipTopMaestro&theme=nightowl" width="340px" />
+</div>
 
+<div align="center">
   <!-- Activity Stats -->
-  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TipTopMaestro&theme=nightowl" width="340px" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TipTopMaestro&theme=nightowl&utcOffset=+8.0" width="340px" />
-  </div>
-
-  
-  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TipTopMaestro&theme=nightowl" width="340px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TipTopMaestro&theme=nightowl&utcOffset=+8.0" width="340px" />
 </div>
 
 
