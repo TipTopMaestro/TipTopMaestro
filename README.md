@@ -22,30 +22,33 @@
 
 <br clear="both">
 
-<div align="center">
-  <h3>GitHub Stats</h3>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=TipTopMaestro&show_icons=true&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TipTopMaestro&layout=compact&theme=nightowl&hide_border=false&card_width=320" height="150" alt="languages graph" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://streak-stats.demolab.com?user=TipTopMaestro&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" />
+<h3>Github Stats</h3>
+
+  <!-- Profile Summary and Streak -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TipTopMaestro&theme=nightowl" width="680px" />
+  </div>
+
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;"/>
+    <img src="https://streak-stats.demolab.com?user=TipTopMaestro&theme=nightowl&hide_border=true" width="680px" />
+  </div>
+
+  <!-- Language Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TipTopMaestro&theme=nightowl" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TipTopMaestro&theme=nightowl" width="340px" />
+  </div>
+
+  <!-- Activity Stats -->
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TipTopMaestro&theme=nightowl" width="340px" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TipTopMaestro&theme=nightowl&utcOffset=+8.0" width="340px" />
+  </div>
+
+  
+  
 </div>
 
-<br clear="both">
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
-  </picture>
-</div>
 
 <h3 align="center">Languages</h3>
 
