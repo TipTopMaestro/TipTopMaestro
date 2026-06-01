@@ -106,7 +106,7 @@
 
 <br/>
 
-<div style= "margin: 20px">
+<div style= "width: 300px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph.svg">
