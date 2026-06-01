@@ -1,14 +1,14 @@
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TipTopMaestro.TipTopMaestro&right_color=darkblue" alt="visitor badge" />
-</div>
+<div align="center">
 
-<h1 align="left">Hi 👋, I'm TipTop Maestro</h1>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=TipTopMaestro.TipTopMaestro&right_color=darkblue" alt="visitor badge" />
 
-<h3 align="left">I'm an aspiring developer from Davao Del Norte State College</h3>
+<h1>Hi 👋, I'm TipTop Maestro</h1>
 
-<h4 align="left">Socials:</h4>
+<h3>I'm an aspiring developer from Davao Del Norte State College</h3>
 
-<div align="left">
+<h4>Socials:</h4>
+
+<div>
   <a href="https://www.facebook.com/quines.monchwalter" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
@@ -22,31 +22,36 @@
 
 <br clear="both">
 
-<h3 align="left">Github Stats</h3>
+<h3>Github Stats</h3>
 
-<div align="center">
+<div>
   <!-- Profile Summary and Streak -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TipTopMaestro&theme=nightowl" width="680px" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=TipTopMaestro&theme=nightowl&hide_border=true" width="680px" />
 </div>
 
-<div align="center">
+<br/>
+
+<div>
   <!-- Language Stats -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TipTopMaestro&theme=nightowl" width="340px" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TipTopMaestro&theme=nightowl" width="340px" />
 </div>
 
-<div align="center">
+<br/>
+
+<div>
   <!-- Activity Stats -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TipTopMaestro&theme=nightowl" width="340px" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TipTopMaestro&theme=nightowl&utcOffset=+8.0" width="340px" />
 </div>
 
+<br/>
 
-<h3 align="left">Languages</h3>
+<h3>Languages</h3>
 
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -54,9 +59,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
 
-<h3 align="left">Libraries, Frameworks & Databases</h3>
+<br/>
 
-<div align="center">
+<h3>Libraries, Frameworks & Databases</h3>
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
@@ -76,9 +83,11 @@
   <img src="https://www.chartjs.org/img/chartjs-logo.svg" height="40" alt="chartjs logo" />
 </div>
 
-<h3 align="center">IDEs, Tools & Testing</h3>
+<br/>
 
-<div align="center">
+<h3>IDEs, Tools & Testing</h3>
+
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
@@ -89,11 +98,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/krita/FF8C00" height="40" alt="krita logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/clipstudio/000000" height="40" alt="clipstudiopaint logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/cisco/0491D1" height="40" alt="cisco logo" />
+</div>
+
 </div>
