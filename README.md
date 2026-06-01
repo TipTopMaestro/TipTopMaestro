@@ -15,14 +15,14 @@
   <a href="https://discordapp.com/users/788300752124641291" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.quinesmonch@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
 <br clear="both">
 
-<h3 align="center">Github Stats</h3>
+<h3 align="left">Github Stats</h3>
 
 <div align="center">
   <!-- Profile Summary and Streak -->
@@ -44,7 +44,7 @@
 </div>
 
 
-<h3 align="center">Languages</h3>
+<h3 align="left">Languages</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
@@ -54,7 +54,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
 
-<h3 align="center">Libraries, Frameworks & Databases</h3>
+<h3 align="left">Libraries, Frameworks & Databases</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
@@ -73,9 +73,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" height="40" alt="chartjs logo" />
+  <img src="https://www.chartjs.org/img/chartjs-logo.svg" height="40" alt="chartjs logo" />
 </div>
 
 <h3 align="center">IDEs, Tools & Testing</h3>
