@@ -106,6 +106,11 @@
 
 <br/>
 
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazAzbmw2cmhuajZ4cTYyMDE3ajI4b2poN2Vwc3dvMHd3azdiMDNxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aiaWqNYWKrYigXbupB/giphy.gif"  />
+</div>
+
+<br/>
 <div style= "width: 300px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TipTopMaestro/TipTopMaestro/pacman-output/galaga-contribution-graph-dark.svg">
