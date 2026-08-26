@@ -1,4 +1,4 @@
-https://githubcard.com/TipTopMaestro.svg?d=Xr47oEgv5xjP
+
 
 <div align="center">
 
